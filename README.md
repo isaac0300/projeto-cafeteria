@@ -1,16 +1,18 @@
 # Projeto Cafeteria
 
-Projeto web introdutório desenvolvido durante minha formação técnica em Desenvolvimento Web e Cibersegurança.
+Projeto desenvolvido como atividade prática durante minha formação técnica em Desenvolvimento Web e Cibersegurança.
 
 ## Sobre o projeto
 
-O projeto consiste em uma página web simples para uma cafeteria, desenvolvida como atividade prática durante a disciplina de Segurança e Hospedagem.
+O projeto consiste em uma página web simples para uma cafeteria.
 
-Além do desenvolvimento da página, o projeto foi utilizado para praticar conceitos básicos de **hospedagem de aplicações web**.
+A atividade foi realizada em sala de aula durante a disciplina de Segurança e Hospedagem. O código foi desenvolvido acompanhando as orientações e exemplos apresentados pelo professor.
+
+Posteriormente, o projeto foi utilizado para praticar conceitos básicos de hospedagem de aplicações web.
 
 ## Objetivo
 
-O objetivo foi colocar em prática conceitos básicos de desenvolvimento web e conhecer processos relacionados à hospedagem de uma aplicação.
+O objetivo da atividade foi conhecer, de forma prática, conceitos básicos de desenvolvimento de páginas web, segurança e hospedagem.
 
 ## Tecnologias
 
@@ -20,4 +22,4 @@ O objetivo foi colocar em prática conceitos básicos de desenvolvimento web e c
 
 ## Contexto
 
-Projeto desenvolvido como atividade prática durante a formação técnica.
+Projeto acadêmico desenvolvido durante a formação técnica.
